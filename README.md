@@ -47,7 +47,7 @@ Terminal / Consola
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/torre-hanoi-python.git
+   git clone https://github.com/tu-usuario/Torre-de-Hanoi.git
 
 2. Accede a la carpeta del proyecto:
    ```bash
