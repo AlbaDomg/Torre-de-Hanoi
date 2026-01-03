@@ -7,35 +7,35 @@ El objetivo es resolver el problema mostrando paso a paso cómo se mueven los di
 
 La Torre de Hanoi es un problema matemático y de programación que consiste en:
 
-Tres torres (origen, auxiliar y destino)
+1. Tres torres (origen, auxiliar y destino)
 
-N discos de distinto tamaño
+2. N discos de distinto tamaño
 
-Todos los discos comienzan en la torre de origen
+3. Todos los discos comienzan en la torre de origen
 
 Reglas:
 
-Solo se puede mover un disco a la vez
+1. Solo se puede mover un disco a la vez
 
-Un disco grande no puede colocarse sobre uno más pequeño
+2. Un disco grande no puede colocarse sobre uno más pequeño
 
-El objetivo es mover todos los discos a la torre de destino
+3. El objetivo es mover todos los discos a la torre de destino
 
 🧠 Enfoque del proyecto
 
 El problema se resuelve utilizando recursividad, ya que:
 
-Se divide el problema en subproblemas más pequeños
+· Se divide el problema en subproblemas más pequeños
 
-Cada llamada recursiva acerca la solución final
+· Cada llamada recursiva acerca la solución final
 
 Este proyecto es ideal para:
 
-Practicar recursividad
+· Practicar recursividad
 
-Entender algoritmos clásicos
+· Entender algoritmos clásicos
 
-Mejorar la lógica de programación en Python
+· Mejorar la lógica de programación en Python
 
 🛠️ Tecnologías utilizadas
 
