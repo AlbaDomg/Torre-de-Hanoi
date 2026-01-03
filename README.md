@@ -51,7 +51,7 @@ Terminal / Consola
 
 2. Accede a la carpeta del proyecto:
    ```bash
-   cd torre-hanoi-python
+   cd Torre-de-Hanoi
 
 3. Ejecuta el programa:
    ```bash
