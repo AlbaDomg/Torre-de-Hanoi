@@ -45,16 +45,16 @@ Terminal / Consola
 
 ▶️ Cómo ejecutar el programa
 
-Clona este repositorio:
-```bash
-git clone https://github.com/tu-usuario/torre-hanoi-python.git
+1. Clona este repositorio:
+   ```bash
+   git clone https://github.com/tu-usuario/torre-hanoi-python.git
 
-Accede a la carpeta del proyecto:
-```bash
-cd torre-hanoi-python
+2. Accede a la carpeta del proyecto:
+   ```bash
+   cd torre-hanoi-python
 
-Ejecuta el programa:
-```bash
-python hanoi.py
+3. Ejecuta el programa:
+   ```bash
+   python 1torre_hanoi.py
 
 
